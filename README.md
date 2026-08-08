@@ -1,9 +1,9 @@
 # جهت حمایت از ما ادرس ولت تتر 💰
 TRX  Address :
-TAD97HP3yk22eVSWMSkDaEgvdMbbBXuHSK
+TB32VoKj7ZBnhN8i83sJ4gzXWQX5yBvToX
 
 BNB Address :
-0xdEc2d2315E31228f6900498683aaF8756F8451E4
+0xEf33cb5ddDB3429bfa68c98Db9C0d644eff9ac87
  
 # اموزش نصب :
 
