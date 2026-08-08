@@ -1,9 +1,9 @@
 # جهت حمایت از ما ادرس ولت تتر 💰
-USDT TRC20 Address :
-TWAcjmHKhqMQ58xXo4do4RgALLkfMm61Ux
+TRX  Address :
+TAD97HP3yk22eVSWMSkDaEgvdMbbBXuHSK
 
-USDT ERC20 Address :
-0x1426afae97fef9f4928e4e171593cae9f5c630cd
+BNB Address :
+0xdEc2d2315E31228f6900498683aaF8756F8451E4
  
 # اموزش نصب :
 
